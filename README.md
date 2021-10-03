@@ -5,11 +5,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal mobile development projects
 - 📫 How to reach me: 
     Email: meseleabel99@gmail.com
-    Linkedin: 
+    Linkedin: https://www.linkedin.com/in/abel-mesele-4a9b5b194
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtoBrightSide)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtoBrightSide)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AtoBrightSide)](https://github.com/anuraghazra/github-readme-stats)
-
