@@ -1,7 +1,5 @@
 ### Hi there 👋 the name is Abel Mesele. I am a Web and Mobile application freelancer
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on personal mobile development projects
 - 📫 How to reach me: 
     Email: meseleabel99@gmail.com
